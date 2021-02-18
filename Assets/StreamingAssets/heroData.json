@@ -1,0 +1,134 @@
+{
+    "Entries": [
+        {
+            "heroName": "Malthael",
+            "health": 5.0,
+            "attackPower": 3.0,
+            "experience": 0,
+            "level": 1,
+            "heroColor": {
+                "r": 0,
+                "g": 255,
+                "b": 2,
+                "a": 255
+            }
+        },
+        {
+            "heroName": "Lilith",
+            "health": 6.0,
+            "attackPower": 4.0,
+            "experience": 0,
+            "level": 1,
+            "heroColor": {
+                "r": 214,
+                "g": 54,
+                "b": 168,
+                "a": 255
+            }
+        },
+        {
+            "heroName": "Leah",
+            "health": 7.0,
+            "attackPower": 5.0,
+            "experience": 0,
+            "level": 1,
+            "heroColor": {
+                "r": 255,
+                "g": 227,
+                "b": 0,
+                "a": 255
+            }
+        },
+        {
+            "heroName": "Lucion",
+            "health": 8.0,
+            "attackPower": 6.0,
+            "experience": 0,
+            "level": 1,
+            "heroColor": {
+                "r": 221,
+                "g": 250,
+                "b": 82,
+                "a": 255
+            }
+        },
+        {
+            "heroName": "Rathma",
+            "health": 9.0,
+            "attackPower": 7.0,
+            "experience": 0,
+            "level": 1,
+            "heroColor": {
+                "r": 81,
+                "g": 250,
+                "b": 157,
+                "a": 255
+            }
+        },
+        {
+            "heroName": "Azmodan",
+            "health": 10.0,
+            "attackPower": 8.0,
+            "experience": 0,
+            "level": 1,
+            "heroColor": {
+                "r": 250,
+                "g": 137,
+                "b": 29,
+                "a": 255
+            }
+        },
+        {
+            "heroName": "Belial",
+            "health": 11.0,
+            "attackPower": 9.0,
+            "experience": 0,
+            "level": 1,
+            "heroColor": {
+                "r": 118,
+                "g": 227,
+                "b": 134,
+                "a": 255
+            }
+        },
+        {
+            "heroName": "Duriel",
+            "health": 12.0,
+            "attackPower": 10.0,
+            "experience": 0,
+            "level": 1,
+            "heroColor": {
+                "r": 86,
+                "g": 72,
+                "b": 171,
+                "a": 255
+            }
+        },
+        {
+            "heroName": "Andariel",
+            "health": 13.0,
+            "attackPower": 11.0,
+            "experience": 0,
+            "level": 1,
+            "heroColor": {
+                "r": 227,
+                "g": 114,
+                "b": 68,
+                "a": 255
+            }
+        },
+        {
+            "heroName": "Mephisto",
+            "health": 14.0,
+            "attackPower": 12.0,
+            "experience": 0,
+            "level": 1,
+            "heroColor": {
+                "r": 227,
+                "g": 67,
+                "b": 45,
+                "a": 255
+            }
+        }
+    ]
+}
